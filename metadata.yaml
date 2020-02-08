@@ -1,5 +1,8 @@
 _repo: Veres-konyv-Csatakepek-a-keleti-haborubol_61296
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61296-h/images/cover.jpg
 creator:
   author:
     agent_name: Jókai, Mór
@@ -15,6 +18,8 @@ creator:
     - https://hu.wikipedia.org/wiki/J%C3%B3kai_M%C3%B3r
     - https://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61296#Veres-konyv-Csatakepek-a-keleti-haborubol
 gutenberg_issued: '2020-02-02'
 gutenberg_type: Text
 identifiers:
